@@ -2,8 +2,8 @@ Written exam during the interview
 
 Main Exam：  
 routes/web.php  
-App/Http/Controllers/ParseController.php  
 resources/views/main.blade.php  
+app/Http/Controllers/ParseController.php  
 
 
 Small Exam：  
