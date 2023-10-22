@@ -10,14 +10,17 @@ Press "Detail," and the data will be displayed in the corresponding table column
 
 Press "Delete," and it will remove the entire row of data.  
 
-
+--
 Main Exam：  
+--
 routes/web.php  
 resources/views/main.blade.php  
 app/Http/Controllers/ParseController.php  
 
 
+--
 Small Exam：  
+--
 public/php_array.php  
 public/php_array_search.php  
 public/php_carbon.php  
